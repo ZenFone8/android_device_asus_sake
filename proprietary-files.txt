@@ -188,7 +188,6 @@ vendor/firmware/cs35l45-spk-dsp1-spk-prot.wmfw
 vendor/firmware/cs35l45-spk-music.txt
 vendor/firmware/cs35l45-spk-outdoor.txt
 vendor/firmware/cs35l45-spk-voice.txt
-vendor/lib/hw/audio.primary.lahaina.so
 vendor/lib/soundfx/libasphere.so
 vendor/lib/soundfx/libdiraceffect.so
 vendor/lib/soundfx/libqcbassboost.so
@@ -243,7 +242,6 @@ vendor/lib/libssrec.so
 vendor/lib/libstagefright_soft_qtiflacdec.so
 vendor/lib/libsurround_3mic_proc.so
 vendor/lib/vendor.qti.voiceprint@1.0.so
-vendor/lib64/hw/audio.primary.lahaina.so
 vendor/lib64/soundfx/libasphere.so
 vendor/lib64/soundfx/libqcbassboost.so
 vendor/lib64/soundfx/libqcreverb.so
