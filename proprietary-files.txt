@@ -1201,34 +1201,20 @@ vendor/lib64/vendor.qti.hardware.radio.uim@1.2.so
 
 # QMI
 vendor/bin/irsc_util
-vendor/bin/qdss_qmi_helper
 vendor/bin/qmipriod
-vendor/bin/qrtr-cfg
-vendor/bin/qrtr-lookup
 vendor/bin/qrtr-ns
 vendor/etc/init/qmipriod.rc
 vendor/etc/init/qmipriod.debug.rc
 vendor/etc/seccomp_policy/qti-systemd.policy
 vendor/lib/libidl.so
-vendor/lib/libmdmdetect.so
-vendor/lib/libqcci_legacy.so
 vendor/lib/libqmi.so
 vendor/lib/libqmiservices.so
-vendor/lib/libqmi_client_helper.so
 vendor/lib/libqmi_client_qmux.so
 vendor/lib/libqmi_cci.so
-vendor/lib/libqmi_csi.so
-vendor/lib/libqmi_csvt_srvc.so
-vendor/lib/libqmi_common_so.so
 vendor/lib/libqmi_encdec.so
 vendor/lib/libqmi_legacy.so
-vendor/lib/libqrtr.so
-vendor/lib/libqsocket.so
-vendor/lib/libsmemlog.so
-vendor/lib/libsystem_health_mon.so
 vendor/lib64/libidl.so
 vendor/lib64/libmdmdetect.so
-vendor/lib64/libqcci_legacy.so
 vendor/lib64/libqmi.so
 vendor/lib64/libqmiextservices.so
 vendor/lib64/libqmiservices.so
@@ -1237,12 +1223,10 @@ vendor/lib64/libqmi_client_qmux.so
 vendor/lib64/libqmi_common_so.so
 vendor/lib64/libqmi_cci.so
 vendor/lib64/libqmi_csi.so
-vendor/lib64/libqmi_csvt_srvc.so
 vendor/lib64/libqmi_encdec.so
 vendor/lib64/libqmi_legacy.so
 vendor/lib64/libqrtr.so
 vendor/lib64/libqsocket.so
-vendor/lib64/libsmemlog.so
 vendor/lib64/libsystem_health_mon.so
 
 # QTEE
