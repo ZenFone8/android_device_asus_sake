@@ -1060,7 +1060,6 @@ vendor/lib/libqti-perfd-client-vendor.so
 vendor/lib/libqti-util.so
 vendor/lib/libqti-util-vendor.so
 vendor/lib/libqti-utils.so
-vendor/lib/libskewknob.so
 vendor/lib/vendor.qti.hardware.iop@1.0.so
 vendor/lib/vendor.qti.hardware.iop@2.0.so
 vendor/lib/vendor.qti.memory.pasrmanager@1.0.so
@@ -1078,7 +1077,6 @@ vendor/lib64/libmeters-ns.so
 vendor/lib64/libperfconfig.so
 vendor/lib64/libperfgluelayer.so
 vendor/lib64/libperfioctl.so
-vendor/lib64/libpowercallback.so
 vendor/lib64/libpowercore.so
 vendor/lib64/libprekill.so
 vendor/lib64/libqti-iopd.so
@@ -1090,7 +1088,6 @@ vendor/lib64/libqti-perfd-client-vendor.so
 vendor/lib64/libqti-util.so
 vendor/lib64/libqti-util-vendor.so
 vendor/lib64/libqti-utils.so
-vendor/lib64/libreffeature.so
 vendor/lib64/libskewknob.so
 vendor/lib64/libsplh.so
 vendor/lib64/libvideooptfeature.so
