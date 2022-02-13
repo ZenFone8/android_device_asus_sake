@@ -980,31 +980,23 @@ vendor/etc/media_profiles_vendor.xml
 vendor/etc/media_profiles.xml
 vendor/etc/video_system_specs.json
 vendor/lib/hw/vendor.qti.hardware.capabilityconfigstore@1.0-impl.so
-vendor/lib/libqc2colorconvertfilter.so
-vendor/lib/libqc2filter.so
 vendor/lib/libqc2vppfilter.so
 vendor/lib/libqcodec2_basecodec.so
 vendor/lib/libqcodec2_base.so
 vendor/lib/libqcodec2_core.so
 vendor/lib/libqcodec2_hooks.so
-vendor/lib/libqcodec2_mockfilter.so
 vendor/lib/libqcodec2_platform.so
 vendor/lib/libqcodec2_utils.so
 vendor/lib/libqcodec2_v4l2codec.so
-vendor/lib/libqconfigclient.so
 vendor/lib/vendor.qti.hardware.qconfig@1.0.so
-vendor/lib64/libqc2colorconvertfilter.so
-vendor/lib64/libqc2filter.so
 vendor/lib64/libqc2vppfilter.so
 vendor/lib64/libqcodec2_basecodec.so
 vendor/lib64/libqcodec2_base.so
 vendor/lib64/libqcodec2_core.so
 vendor/lib64/libqcodec2_hooks.so
-vendor/lib64/libqcodec2_mockfilter.so
 vendor/lib64/libqcodec2_platform.so
 vendor/lib64/libqcodec2_utils.so
 vendor/lib64/libqcodec2_v4l2codec.so
-vendor/lib64/libqconfigclient.so
 vendor/lib64/vendor.qti.hardware.qconfig@1.0.so
 
 # NFC
