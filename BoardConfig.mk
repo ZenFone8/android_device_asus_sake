@@ -138,8 +138,6 @@ BOARD_VENDOR_KERNEL_MODULES_LOAD := \
     hid-aksys.ko \
     icm206xx.ko \
     it913x.ko \
-    lid.ko \
-    lid_2.ko \
     llcc_perfmon.ko \
     m88rs6000t.ko \
     machine_dlkm.ko \
@@ -177,17 +175,14 @@ BOARD_VENDOR_KERNEL_MODULES_LOAD := \
     rx_macro_dlkm.ko \
     sensors_vcnl36866.ko \
     si2157.ko \
-    sla.ko \
-    slimbus-ngd.ko \
     slimbus.ko \
-    snd-soc-es928x.ko \
+    slimbus-ngd.ko \
     snd_event_dlkm.ko \
     stub_dlkm.ko \
     swr_ctrl_dlkm.ko \
     swr_dlkm.ko \
     swr_dmic_dlkm.ko \
     swr_haptics_dlkm.ko \
-    sx932x_sake.ko \
     tda18212.ko \
     tda18218.ko \
     tda18250.ko \
