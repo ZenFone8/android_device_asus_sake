@@ -151,17 +151,12 @@
         <device name="SND_DEVICE_IN_BT_A2DP" acdb_id="201"/>
         <!-- ASUS ACDB IDs -->
         <device name="SND_DEVICE_OUT_AFE_PROXY" acdb_id="800"/>
-        <device name="SND_DEVICE_OUT_VOICE_USB_HEADSET" acdb_id="45"/>
         <device name="SND_DEVICE_OUT_VOIP_HEADPHONES" acdb_id="502"/>
         <device name="SND_DEVICE_OUT_VOIP_SPEAKER" acdb_id="702"/>
         <device name="SND_DEVICE_OUT_VOIP_HANDSET" acdb_id="302"/>
-        <device name="SND_DEVICE_IN_VOICE_DMIC" acdb_id="41"/>
         <device name="SND_DEVICE_IN_VOICE_DMIC_TMUS" acdb_id="41"/>
         <device name="SND_DEVICE_IN_VOICE_SPEAKER_MIC" acdb_id="42"/>
-        <device name="SND_DEVICE_IN_VOICE_HEADSET_MIC" acdb_id="8"/>
-        <device name="SND_DEVICE_IN_VOICE_USB_HEADSET_MIC" acdb_id="44"/>
         <device name="SND_DEVICE_IN_SPEAKER_MIC" acdb_id="4"/>
-        <device name="SND_DEVICE_IN_UNPROCESSED_THREE_MIC" acdb_id="145"/>
         <device name="SND_DEVICE_IN_CAMCORDER_INVERT_LANDSCAPE" acdb_id="48"/>
         <device name="SND_DEVICE_IN_CAMCORDER_LANDSCAPE" acdb_id="34"/>
         <device name="SND_DEVICE_IN_VOICE_REC_HEADSET_MIC" acdb_id="403"/>
